@@ -1,4 +1,4 @@
-h1{
+.h1-tag{
     font-size: 80px;
     font-style:oblique;
     font-family: monospace;
@@ -30,7 +30,7 @@ h1{
     width: 85%;
     padding-left: 5%;
 }
-section{
+.section1{
     display: flex;
     background-color: rgb(255, 231, 199);
     border: 3px solid black;
@@ -52,4 +52,32 @@ body{
 }
 .more{
     color: blue;
+}
+.section3{
+    background-color: rgb(255, 231, 199);
+    border: 3px solid black;
+    margin-top: 30px;
+}
+.div4{
+    display: flex;
+}
+.second-h1{
+    font-style:oblique;
+    font-family: monospace;
+    font-size: 60px;
+}
+.h2{
+   font-size: 30px;
+   font-family: monospace;
+   color: blue;
+}
+.para{
+    font-size: 18px;
+    text-align: justify;
+    padding-left: ;
+}
+
+.line{
+    padding-left: 15px;
+    padding-bottom: 30px;
 }
