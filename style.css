@@ -16,7 +16,7 @@ h1{
     font-family: monospace;
     text-align: justify;
 }
-#hyperlink{
+.hyperlink{
     text-decoration: none;
     font-size: 23px;
     font-family: monospace;
@@ -43,4 +43,13 @@ section{
 }
 body{
     background-color: rgba(0, 136, 255, 0.275);
+}
+.secction2{
+    margin-top: 30px;
+}
+.padd{
+    padding-top: 90px;
+}
+.more{
+    color: blue;
 }
